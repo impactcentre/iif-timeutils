@@ -18,7 +18,7 @@
 
 */
 
-package eu.impact_project.timeutils;
+package eu.impact_project.iif.timeutils;
 
 import java.io.IOException;
 import java.io.PrintWriter;

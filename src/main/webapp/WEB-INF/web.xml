@@ -10,7 +10,7 @@
 	<servlet>
 		<display-name>Timestamp</display-name>
 		<servlet-name>Timestamp</servlet-name>
-		<servlet-class>eu.impact_project.timeutils.Timestamp</servlet-class>
+		<servlet-class>eu.impact_project.iif.timeutils.Timestamp</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Timestamp</servlet-name>
