@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.impact_project.iif</groupId>
 	<artifactId>timeutils</artifactId>
-	<version>0.5.0</version>
+	<version>0.6.0</version>
     <name>timeutils</name>
 	<packaging>war</packaging>
     <properties>
